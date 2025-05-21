@@ -1,0 +1,6 @@
+{
+  "short_name": "SKKU COMPLAINT",
+  "name": "SKKU Complaint Map",
+  "start_url": ".",
+  "display": "standalone"
+}
